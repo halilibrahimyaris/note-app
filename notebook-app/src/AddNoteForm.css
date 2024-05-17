@@ -1,0 +1,40 @@
+
+.add-note-form {
+    background-color: #fff; /* Form arka plan rengi (beyaz) */
+    padding: 20px;
+    border-radius: 5px; /* Köşelerin yuvarlatılması */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+}
+
+.add-note-form h2 {
+    color: #333; /* Başlık rengi (koyu gri) */
+    margin-bottom: 20px;
+}
+
+.add-note-form label {
+    display: block; /* Etiketleri blok olarak göster */
+    margin-bottom: 5px;
+}
+
+.add-note-form input,
+.add-note-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.add-note-form button {
+    background-color: #4CAF50; /* Oluştur düğmesi rengi (yeşil) */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.add-note-form button:hover {
+    background-color: #45a049; /* Hover efekti (daha koyu yeşil) */
+}
