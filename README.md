@@ -38,7 +38,7 @@ Install the necessary dependencies:
 npm install
 npm start
 
-Usage
+### Usage
 Registration and Login:
 Users can register and log in to the application using JWT tokens.
 
